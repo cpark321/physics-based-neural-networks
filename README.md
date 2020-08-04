@@ -14,6 +14,9 @@
 1. [Hamiltonian Neural Networks]
 2. [Neural Ordinary Differential Equations]
 
-[https://github.com/greydanus]: https://github.com/greydanus/hamiltonian-nn
 [Hamiltonian Neural Networks]: https://papers.nips.cc/paper/9672-hamiltonian-neural-networks.pdf
+[Neural Ordinary Differential Equations]: https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf
+[https://github.com/greydanus]: https://github.com/greydanus/hamiltonian-nn
 [https://github.com/rtqichen]: https://github.com/rtqichen/torchdiffeq
+
+
