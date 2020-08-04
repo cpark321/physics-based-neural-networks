@@ -8,7 +8,7 @@
   - Python 3.7+
   - PyTorch==1.5
   - torchdiffeq
-  - Codes are heavily inspired by [https://github.com/greydanus]
+  - Codes are heavily inspired by [https://github.com/greydanus], [https://github.com/rtqichen]
 
 ### Reference
 1. [Hamiltonian Neural Networks]
